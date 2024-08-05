@@ -93,7 +93,7 @@ docker_compose_version: ""
 ##
 
 # Name of the python-pip package providing docker-py
-docker_py_package_name: "docker"
+docker_py_package_name: "python3-docker"
 
 # Version of the docker-py package to be installed.
 docker_py_package_version: ""
